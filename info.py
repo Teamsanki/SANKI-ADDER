@@ -13,10 +13,10 @@ def is_enabled(value, default):
 
 # ----------------ʜᴇʀᴇ-ᴄᴏɴғɪɢ------------------#
 
-API_ID = int(environ['API_ID'])
-API_HASH = environ['API_HASH']
-BOT_TOKEN = environ['BOT_TOKEN']
-OWNER_IDS = list(map(int, getenv("OWNER_IDS", "6691393517").split()))
-PREMIUM_IDS = list(map(int, getenv("PREMIUM_IDS", "6691393517").split()))
+API_ID = int(environ['24740695'])
+API_HASH = environ['a95990848f2b93b8131a4a7491d97092']
+BOT_TOKEN = environ['7790830566:AAEKrFbKPcM_p4BgOJgjigrnbdwMQnR_rWc']
+OWNER_IDS = list(map(int, getenv("OWNER_IDS", "7447102240").split()))
+PREMIUM_IDS = list(map(int, getenv("PREMIUM_IDS", "7447102240").split()))
 
 # ----------------ᴄᴏɴғɪɢ-ᴇɴᴅ------------------#
