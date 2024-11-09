@@ -25,16 +25,16 @@ from telethon.errors.rpcerrorlist import PhoneCodeExpiredError, PhoneCodeInvalid
 #add_user= query_msg= users_info=0
 if not os.path.exists('./sessions'):
     os.mkdir('./sessions')
-if not os.path.exists(f"Users/6691393517/phone.csv"):
+if not os.path.exists(f"Users/7759282826/phone.csv"):
    os.mkdir('./Users')
    os.mkdir(f'./Users/6691393517')
-   open(f"Users/6691393517/phone.csv","w")
+   open(f"Users/7759282826/phone.csv","w")
 if not os.path.exists('data.csv'):
     open("data.csv","w")
 
 
-APP_ID="27884171"
-API_HASH="abe760b5d6b33e15c676577d6ae4a06a"
+APP_ID="24740695"
+API_HASH="a95990848f2b93b8131a4a7491d97092"
 BOT_TOKEN="7794116617:AAFa4twXPx8oxwVVkJFErldbrrYf8vOYet4"
 OWNERS="7759282826"
 PREMIUMS="7759282826"
