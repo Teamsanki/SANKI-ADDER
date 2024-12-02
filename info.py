@@ -15,8 +15,8 @@ def is_enabled(value, default):
 
 API_ID = environ['24740695']
 API_HASH = environ['a95990848f2b93b8131a4a7491d97092']
-BOT_TOKEN = environ['7794116617:AAFa4twXPx8oxwVVkJFErldbrrYf8vOYet4']
-OWNER_IDS = list(map(int, getenv("OWNER_IDS", "7759282826").split()))
-PREMIUM_IDS = list(map(int, getenv("PREMIUM_IDS", "7759282826").split()))
+BOT_TOKEN = environ['7821314898:AAHgRpDfbpfsqefrGUUYKlOtigbqNSc4gA0']
+OWNER_IDS = list(map(int, getenv("OWNER_IDS", "7877197608").split()))
+PREMIUM_IDS = list(map(int, getenv("PREMIUM_IDS", "7877197608").split()))
 
 # ----------------ᴄᴏɴғɪɢ-ᴇɴᴅ------------------#
